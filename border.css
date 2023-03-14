@@ -1,0 +1,28 @@
+p {
+    border-style:double;
+    border-width: 10px;
+    border-color: #1239af;
+}
+
+#abreviado-border {
+    border:5px double #e4d61c ;
+}
+
+.border-izquierdo {
+    border-left:5px solid red !important;
+}
+.border-derecho {
+    border-right:5px solid red !important;
+}
+.border-superior {
+    border-top:5px solid red !important;
+}
+.border-inferior {
+    border-bottom:5px solid red !important;
+}
+
+.sombra-texto-titulo{
+    text-shadow:4px 4px 5px rgb(121, 145, 170);
+}
+
+

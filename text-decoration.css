@@ -1,0 +1,39 @@
+#estilo-linea-overline {
+    text-decoration-line: overline;
+    text-decoration-color: blue;
+    text-decoration-style: solid;
+    text-decoration-thickness: 1px;
+    text-transform: uppercase;
+}
+#estilo-linea-underline{
+    text-decoration-line: underline;
+    text-decoration-color: aqua;
+    text-decoration-style: double;
+    text-decoration-thickness: 2px;
+    text-transform: lowercase;
+}
+#estilo-linea-through{
+    text-decoration-line: line-through overline;
+    text-decoration-color: brown;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 3px;
+    text-transform: capitalize;
+}
+
+#estilo-linea-dashed{
+    text-decoration-line: line-through overline;
+    text-decoration-color: brown;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 4px;
+}
+
+#estilo-linea-wavy{
+    text-decoration-line: line-through overline;
+    text-decoration-color: brown;
+    text-decoration-style: wavy;
+    text-decoration-thickness: 5px;
+}
+
+#todo-en-uno {
+    text-decoration: underline wavy red 5px;
+}

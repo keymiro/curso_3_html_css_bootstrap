@@ -15,3 +15,6 @@ body{
 #resaltar-texto-en-negrita {
     font-weight: bold;
 }
+p.ex {
+    text-decoration: overline underline;
+  }
