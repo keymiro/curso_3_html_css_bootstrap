@@ -24,5 +24,8 @@ p {
 .sombra-texto-titulo{
     text-shadow:4px 4px 5px rgb(121, 145, 170);
 }
+.border-radius{
+    border-radius: 20px;
+}
 
 
