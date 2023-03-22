@@ -18,3 +18,7 @@ body{
 p.ex {
     text-decoration: overline underline;
   }
+.color-red{
+  color:  red;
+  text-shadow: 3px 3px 2px rgb(62, 67, 71);
+}
